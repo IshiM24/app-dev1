@@ -1,5 +1,5 @@
 # My favorite series is 
-**From**
+# FROM
 
 ## Description
 *From is an American science fiction horror mystery television series created by John Griffin*
